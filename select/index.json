@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "オーバード",
+  "base_artist": "鷹嶺ルイ",
+  "createdAt": "2025-12-12T20:56:10.373199Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オーバード",
+      "artist": "鷹嶺ルイ",
+      "has_synced": true,
+      "path": "select/01_オーバード_鷹嶺ルイ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オーバード",
+      "artist": "鷹嶺ルイ & 柊キライ",
+      "has_synced": true,
+      "path": "select/02_オーバード_鷹嶺ルイ_&_柊キライ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オーバード",
+      "artist": "鷹嶺ルイ",
+      "has_synced": true,
+      "path": "select/03_オーバード_鷹嶺ルイ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オーバード / 鷹嶺ルイ(official)",
+      "artist": "Lui Takane",
+      "has_synced": true,
+      "path": "select/04_オーバード___鷹嶺ルイ(official)_Lui_Takane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オーバード(Acoustic ver.)",
+      "artist": "鷹嶺ルイ",
+      "has_synced": false,
+      "path": "select/05_オーバード(Acoustic_ver.)_鷹嶺ルイ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オーバード",
+      "artist": "鷹嶺ルイ",
+      "has_synced": false,
+      "path": "select/pl_01_オーバード_鷹嶺ルイ.txt"
+    }
+  ]
+}
